@@ -1,0 +1,6 @@
+{
+  "name": "Exact PDF Editor AI",
+  "description": "Professional web-based PDF editing application that allows editing existing PDF documents while strictly preserving original visual appearance, layout, typography, and object fidelity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
